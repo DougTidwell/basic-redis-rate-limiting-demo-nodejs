@@ -24,7 +24,7 @@ On the 10th run server should return an HTTP status code of **429 Too Many Reque
 "PEXPIRE", "MULTI", "DEL", "PTTL", "EXEC", "DECR", "INCR"
 ```
 
-## Hot to run it locally?
+## How to run it locally?
 
 ### Prerequisites
 
